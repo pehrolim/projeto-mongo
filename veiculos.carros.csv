@@ -1,0 +1,4 @@
+_id,marca,modelo,ano,preco,categoria,cambio
+6547b9a406cac2fb38ae2fc4,Peugeot,208,2023,100000,Hatch,automatico
+6547b9da06cac2fb38ae2fc6,Nissan,Sentra,2016,72000,Sedan,automatico
+6547b9f006cac2fb38ae2fc7,Toyota,Corolla,2018,82000,Sedan,automatico
